@@ -13,7 +13,7 @@
 ## 安裝和使用
 
 1. **下載專案**：從版本控制系統下載或 clone 此專案。
-2. **開啟 `index.html`**：在瀏覽器中打開 `index.html`，即可開始使用應用程式。
+2. **開啟 `index.html`**：在瀏覽器中打開 `index.html`，即可開始使用應用程式；或是使用[github-pages](https://davidchen0970.github.io/wordConverter/)也可立即使用。
 
 ## 使用技術
 
